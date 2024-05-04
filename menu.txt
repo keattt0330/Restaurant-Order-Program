@@ -1,0 +1,26 @@
+--------------------MENU--------------------
+
+		 MAINDISHES
+
+A. French Toast..................RM10.00
+
+B. Egg Benedict..................RM12.90
+
+C. BUtter Pancakes...............RM11.50
+
+		  BEVERAGES
+
+D. Coffee........................RM8.00
+
+E. Green Tea.....................RM5.60
+
+F. Orange Fruit Juice............RM7.00
+
+		  DESSERT
+
+G. Apple Pie.....................RM4.60
+
+H. Donuts........................RM4.00
+
+I. Chocolate Chip Cookies........RM3.50
+
