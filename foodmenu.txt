@@ -1,0 +1,17 @@
+------------------------------------------
+|  Item food           Price    Foodcode |
+|----------------------------------------|                                       
+| . Burger             RM6.00        1   |
+|                                        |
+| . Chicken chop       RM12.00       2   |
+|                                        |
+| . Pizza              RM15.90       3   |
+|                                        |
+| . Nasi goreng        RM7.00        4   |
+|                                        |
+| . Mee goreng         RM7.00        5   |
+|                                        |
+| . French fries       RM5.90        6   |
+|                                        |
+| . Cheezy wedges      RM6.90        7   |
+------------------------------------------

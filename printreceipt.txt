@@ -1,0 +1,21 @@
+-------------------------------------
+            MMU RESTAURANT           
+-------------------------------------
+        MMU Restaurant Sdn Bhd       
+       Persiaran Multimedia,63100    
+         Cyberjaya,Selangor          
+               Malaysia              
+
+Date/Time = Sun May 05 02:27:51 2024
+Phone Number: +603 3123 4564
+Fax: +603 3123 7897
+-------------------------------------
+Dear kohj,
+Table Number: 999
+No.	Item Name	Quantity	Price	SubTotal
+--------------------------------------------------------
+1	Burger    		x1	6.00	6.00
+2	Burger    		x2	6.00	12.00
+
+					  Total    : RM18.00
+Thank you for your purchase
